@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\bin\Debug\Nicolas Ramos.exe.config
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\bin\Debug\Nicolas Ramos.exe
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\bin\Debug\Nicolas Ramos.pdb
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\obj\Debug\Nicolas Ramos.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\obj\Debug\Nicolas Ramos.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\obj\Debug\Nicolas Ramos.exe
+C:\Users\Tecnico\Desktop\Nicolas-Ramos\Nicolas Ramos\obj\Debug\Nicolas Ramos.pdb
