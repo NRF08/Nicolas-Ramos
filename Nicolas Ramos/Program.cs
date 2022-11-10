@@ -15,6 +15,8 @@ namespace Nicolas_Ramos
             string endereço;
             string bairro;
             string cidade;
+            string formação;
+            string experiencia;
             int telefone;
             int idade;
 
@@ -39,6 +41,12 @@ namespace Nicolas_Ramos
 
             Console.WriteLine("Escreva seu telefone:");
         telefone: Console.ReadLine();
+
+            Console.WriteLine("Escreva sua formação:");
+        formação: Console.ReadLine();
+
+            Console.WriteLine("Experiências em outras empresas:");
+        experiencia: Console.ReadLine();
 
             Console.ReadKey();
         }
